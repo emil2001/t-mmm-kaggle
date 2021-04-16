@@ -1,0 +1,2 @@
+model_checkpoint_path: "imported_model_no_bnorm_mod"
+all_model_checkpoint_paths: "imported_model_no_bnorm_mod"
